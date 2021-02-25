@@ -1,0 +1,1 @@
+# feign-adapter-plugin
